@@ -40,7 +40,7 @@ function App() {
           <ListItems text="list item 3"/>
         </div>
       </div>
-      <Counter initialCount= {10} />
+      <Counter initialCount= {0} />
       <DynamicList items={items} />
     </>
   )
